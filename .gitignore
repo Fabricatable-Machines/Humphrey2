@@ -52,3 +52,6 @@ Temporary Items
 # CAD temporary files
 *.fcstd1
 *.ods#
+
+# Libre office backup when saving as .xls
+*.xls#
