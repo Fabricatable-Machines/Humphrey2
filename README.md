@@ -13,7 +13,7 @@ Work in progress phenolic skeleton
 I am nesting the parts onto the bed of the machine as I go. The goal is to be able to cut all critical parts from one cutsheet.
 
 ![](img/cad-process3.JPG)
-Plywood above and bellow the skeleton makes up the torsion box. The top layer is a MDF plate as a scarafical layer
+Plywood above and below the skeleton makes up the torsion box. The top layer is a MDF plate as a scarafical layer
 
 ![](img/cad-process6.JPG)
 Test nesting onto the bed of the 3D model.
@@ -57,7 +57,7 @@ Milling a [CNC friendly](https://github.com/fellesverkstedet/fabricatable-machin
 First test assembled. I have mixed feelings about the flexure that ensure constant preload between the pinoin and the rack.
 
 ![](img/test-piece-12-motor-plate-test.JPG)
-A second test with a more classic adjustable motorplate intead of flexures.
+A second test with a more classic adjustable motorplate instead of flexures.
 
 **Notes from making and testing:**
 
@@ -70,7 +70,7 @@ A second test with a more classic adjustable motorplate intead of flexures.
  - The flexure vibrates a bit at higher speeds.
  - Not enough space for indents in pinion that show set screw hole drill positions. 3 tabs can do the same job.
  - Cut depth of pinion teeth reduced to 5.6mm because of available 2mm bit flute lengths
- - Inside hole set to 14.05mm. Premilled to ø 13.6, then ran three times at ø14.05mm with a long 5deg ramp continous to the bottom. Still the bottom of the hole became too small. Maybe reduce thickness of stock?
+ - Inside hole set to 14.05mm. Premilled to ø 13.6, then ran three times at ø14.05mm with a long 5deg ramp continuous to the bottom. Still the bottom of the hole became too small. Maybe reduce thickness of stock?
  - Motorplate with three screws instead of flexures feels safer and more suitable.
  - Openbuilds controller and interface is easy to work with.
  
@@ -84,6 +84,6 @@ A second test with a more classic adjustable motorplate intead of flexures.
 ![](img/humphrey2-nesting-test-critical-parts.JPG)
 
 ### BOM
-*Work in progess*
+*Work in progress*
 
 ![](img/BOM-humphrey2.JPG)
