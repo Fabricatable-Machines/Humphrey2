@@ -3,7 +3,7 @@ A self replicating large format open hardware CNC router
 
 ### Dev log August 2022 - CAD progress and a FreeCAD bug
 
-The master CAD design is progressing slow and steady. I did run into a bug with FreeCAD expressions (reported [here](https://forum.freecadweb.org/viewtopic.php?f=3&t=71309&p=620375#p620375)), so I have reverted to using FreeCAD versoin 19 for now. It had been nice to use the realitively new FreeCAD Link feature to make simple assembly from a separate rack and pinion file. Saving both computation time and storage space.
+The master CAD design is progressing slow and steady. I ran into a bug with FreeCAD expressions *(reported [here](https://forum.freecadweb.org/viewtopic.php?f=3&t=71309&p=620375#p620375))*, so I have reverted to using FreeCAD version 19 for now. It has been nice to use the relatively new FreeCAD Link feature to make a simple assembly by embedding the external rack and pinion file. Saving both computation time and storage space :)
 
 ![](img/cad-process-round2-3.JPG)
 
