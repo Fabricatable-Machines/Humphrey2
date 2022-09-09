@@ -1,6 +1,33 @@
 # Humphrey2
 A self replicating large format open hardware CNC router
 
+### Dev log September 9th 2022 - Initial design is done!
+
+Finally the first verion of the design is done. The FreeCAD model is fully parametric, which feels great. So it is possible to change parameters like material thickness, tolerances, clearance between the gantry and the bed and so on without breaking the model. Next up is test milling some parts and maybe do some parameter tuning before milling all the parts for the first prototype!
+
+![](img/cad-process-round3-6.JPG)
+*Proportions feel good*
+
+![](img/cad-process-round3-5.JPG)
+*The skeleton without the plywood torsion box skins and the sacraficial MDF layer*
+
+![](img/cad-process-round3-4.JPG)
+*Close up of the gantry and XZ axis*
+
+![](img/cad-process-round3-0.JPG)
+*Front view*
+
+![](img/cad-process-round3-1.JPG)
+*Side view*
+
+![](img/cad-process-round3-2.JPG)
+*Top view*
+
+![](img/cad-process-round3-3.JPG)
+*A rough nesting test indicates that all the milled parts will fit on one cutsheet as planned!*
+
+
+
 ### Dev log August 2022 - CAD progress and a FreeCAD bug
 
 The master CAD design is progressing slow and steady. I ran into a bug with FreeCAD expressions *(reported [here](https://forum.freecadweb.org/viewtopic.php?f=3&t=71309&p=620375#p620375))*, so I have reverted to using FreeCAD version 19 for now. It has been nice to use the relatively new FreeCAD Link feature to make a simple assembly by embedding the external rack and pinion file. Saving both computation time and storage space :)
@@ -97,3 +124,8 @@ A second test with a more classic adjustable motorplate instead of flexures.
 *Work in progress*
 
 ![](img/BOM-humphrey2.JPG)
+
+### License
+
+Creative Commons Attribution-ShareAlike
+http://creativecommons.org/licenses/by-sa/4.0/
