@@ -3,13 +3,13 @@ A self replicating large format open hardware CNC router
 
 ### Dev log September 9th 2022 - Initial design is done!
 
-Finally the first verion of the design is done. The FreeCAD model is fully parametric, which feels great. So it is possible to change parameters like material thickness, tolerances, clearance between the gantry and the bed and so on without breaking the model. Next up is test milling some parts and maybe do some parameter tuning before milling all the parts for the first prototype!
+Finally the first version of the design is done. The FreeCAD model is fully parametric, which feels great. So it is possible to change parameters like material thickness, tolerances, clearance between the gantry and the bed and so on without breaking the model. Next up is test milling some parts and maybe do some parameter tuning before milling all the parts for the first prototype!
 
 ![](img/cad-process-round3-6.JPG)
 *Proportions feel good*
 
 ![](img/cad-process-round3-5.JPG)
-*The skeleton without the plywood torsion box skins and the sacraficial MDF layer*
+*The skeleton without the plywood torsion box skins and the sacrificial MDF layer*
 
 ![](img/cad-process-round3-4.JPG)
 *Close up of the gantry and XZ axis*
