@@ -1,6 +1,20 @@
 # Humphrey2
 A self replicating large format open hardware CNC router
 
+### Dev log October 4th 2022 - Nesting done + design tweaks
+
+Next up; machining, assembly and testing!
+
+![](img/cad-process-round4-0-top-view.JPG)
+*59 parts to machine from phenolic resin composite, all from a single cutsheet*
+
+![](img/cad-process-round4-1-nested-perspective.JPG)
+*Portrait of a self replicating machine*
+
+![](img/cad-process-round4-2-z-pobe.JPG)
+*Added probe plate for Z axis probing of bit length*
+
+
 ### Dev log September 9th 2022 - Initial design is done!
 
 Finally the first version of the design is done. The FreeCAD model is fully parametric, which feels great. So it is possible to change parameters like material thickness, tolerances, clearance between the gantry and the bed and so on without breaking the model. Next up is test milling some parts and maybe do some parameter tuning before milling all the parts for the first prototype!
