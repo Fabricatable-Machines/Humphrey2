@@ -1,5 +1,72 @@
 # Humphrey2
 A self replicating large format open hardware CNC router
+*by Jens Dyvik, March 2022 - ongoing*
+
+### Dev log October 31st 2022 - Smooth sailing for first test milling of parts and assembly
+
+![](img/first-prod-and-assembly-01.JPG)
+*Very few hickups during first assembly - next up lots of testing*
+
+![](img/first-prod-and-assembly-02.JPG)
+*Full size phenolic sheet loaded on [Hanzo](https://github.com/Fabricatable-Machines/Hanzo), ready to become Humphrey2 parts*
+
+![](img/first-prod-and-assembly-03.JPG)
+*It felt great to use [Hanzo](https://github.com/Fabricatable-Machines/Hanzo), a Fabricatable machine, to make another Fabricatable machine!*
+
+![](img/first-prod-and-assembly-04.JPG)
+*Using leftovers to make X - Z assembly parts*
+
+![](img/first-prod-and-assembly-05.JPG)
+*The cross pieces were also milled from leftovers*
+
+![](img/first-prod-and-assembly-06.JPG)
+*Batch milling pinions from POM plastic leftovers*
+
+![](img/first-prod-and-assembly-07.JPG)
+*The cross pieces ensure constant distance between the left and rigth X rail, and function as torsion box spacers*
+
+![](img/first-prod-and-assembly-08.JPG)
+*All holes thread milled during production makes assembly fast*
+
+![](img/first-prod-and-assembly-09.JPG)
+*Using a spade drill to counterbore the carriage bolt holes*
+
+![](img/first-prod-and-assembly-10.JPG)
+*The two plywood sheets that make up the top and bottom torsion box skin of the bed can be drilled manually on site. This makes for cheaper and easier shipping of the milled parts.*
+
+![](img/first-prod-and-assembly-11.JPG)
+*The adjustable feet enable leveling. What kind of sawhorse or legs to use is open.*
+
+![](img/first-prod-and-assembly-12.JPG)
+*Using masonry thread and three washers to make the outer walls carrying the X rails as straigth as possible. As spirit level is used to try to make the assembly flat.*
+
+![](img/first-prod-and-assembly-13.JPG)
+*The gantry has spcer nuts so shorter screws can be used*
+
+![](img/first-prod-and-assembly-14.JPG)
+*Again, all holes thread milled during manufacturing makes asssembly super fast*
+
+![](img/first-prod-and-assembly-15.JPG)
+*Gantry feet parts*
+
+![](img/first-prod-and-assembly-16.JPG)
+*Tightening under pressure*
+
+![](img/first-prod-and-assembly-17.JPG)
+*Mounting rails and racks*
+
+![](img/first-prod-and-assembly-18.JPG)
+*Mounting the X-Z carriage*
+
+![](img/first-prod-and-assembly-19.JPG)
+*Mounting gearboxes to the steppers and pinion and motor plates to the geraboxes*
+
+![](img/first-prod-and-assembly-20.JPG)
+*Gantry detail. The pinions should be snug but not too tight against the racks.*
+
+![](img/first-prod-and-assembly-21.JPG)
+*Preparing for electronics work. I am testing the OpenBuilds Blackbox and Interface for fast and easy wiring.*
+
 
 ### Dev log October 4th 2022 - Nesting done + design tweaks
 
