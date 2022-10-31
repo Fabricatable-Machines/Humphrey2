@@ -23,7 +23,7 @@ A self replicating large format open hardware CNC router
 *Batch milling pinions from POM plastic leftovers*
 
 ![](img/first-prod-and-assembly-07.JPG)
-*The cross pieces ensure constant distance between the left and rigth X rail, and function as torsion box spacers*
+*The cross pieces ensure constant distance between the left and right X rail, and function as torsion box spacers*
 
 ![](img/first-prod-and-assembly-08.JPG)
 *All holes thread milled during production makes assembly fast*
@@ -38,13 +38,13 @@ A self replicating large format open hardware CNC router
 *The adjustable feet enable leveling. What kind of sawhorse or legs to use is open.*
 
 ![](img/first-prod-and-assembly-12.JPG)
-*Using masonry thread and three washers to make the outer walls carrying the X rails as straigth as possible. As spirit level is used to try to make the assembly flat.*
+*Using masonry thread and three washers to make the outer walls carrying the X rails as straight as possible. As spirit level is used to try to make the assembly flat.*
 
 ![](img/first-prod-and-assembly-13.JPG)
-*The gantry has spcer nuts so shorter screws can be used*
+*The gantry has spacer nuts so shorter screws can be used*
 
 ![](img/first-prod-and-assembly-14.JPG)
-*Again, all holes thread milled during manufacturing makes asssembly super fast*
+*Again, all holes thread milled during manufacturing makes assembly super fast*
 
 ![](img/first-prod-and-assembly-15.JPG)
 *Gantry feet parts*
@@ -59,7 +59,7 @@ A self replicating large format open hardware CNC router
 *Mounting the X-Z carriage*
 
 ![](img/first-prod-and-assembly-19.JPG)
-*Mounting gearboxes to the steppers and pinion and motor plates to the geraboxes*
+*Mounting gearboxes to the steppers and pinion and motor plates to the gearboxes*
 
 ![](img/first-prod-and-assembly-20.JPG)
 *Gantry detail. The pinions should be snug but not too tight against the racks.*
