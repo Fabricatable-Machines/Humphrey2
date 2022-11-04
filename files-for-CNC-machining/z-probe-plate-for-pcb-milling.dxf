@@ -1,5 +1,3 @@
-999
-FreeCAD v0.19 24267 +148 (Git)
   0
 SECTION
   2
@@ -7,98 +5,586 @@ HEADER
   9
 $ACADVER
   1
-AC1014
-  9
-$ACADMAINTVER
- 70
-     9
+AC1009
   9
 $DWGCODEPAGE
   3
-ANSI_1252
+ansi_1252
+  9
+$INSBASE
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$EXTMIN
+ 10
+0.9999999999999998
+ 20
+0.9999999999999964
+ 30
+0.0
+  9
+$EXTMAX
+ 10
+26.0
+ 20
+50.99999999993
+ 30
+0.0
+  9
+$LIMMIN
+ 10
+0.0
+ 20
+0.0
+  9
+$LIMMAX
+ 10
+12.0
+ 20
+9.0
+  9
+$ORTHOMODE
+ 70
+     0
+  9
+$REGENMODE
+ 70
+     1
+  9
+$FILLMODE
+ 70
+     1
+  9
+$QTEXTMODE
+ 70
+     0
+  9
+$MIRRTEXT
+ 70
+     1
+  9
+$DRAGMODE
+ 70
+     2
+  9
+$LTSCALE
+ 40
+1.0
+  9
+$OSMODE
+ 70
+    37
+  9
+$ATTMODE
+ 70
+     1
+  9
+$TEXTSIZE
+ 40
+0.2
+  9
+$TRACEWID
+ 40
+0.05
   9
 $TEXTSTYLE
   7
 STANDARD
   9
+$CLAYER
+  8
+WORK_LAYER
+  9
+$CELTYPE
+  6
+BYLAYER
+  9
+$CECOLOR
+ 62
+   256
+  9
+$DIMSCALE
+ 40
+1.0
+  9
+$DIMASZ
+ 40
+0.18
+  9
+$DIMEXO
+ 40
+0.0625
+  9
+$DIMDLI
+ 40
+0.38
+  9
+$DIMRND
+ 40
+0.0
+  9
+$DIMDLE
+ 40
+0.0
+  9
+$DIMEXE
+ 40
+0.18
+  9
+$DIMTP
+ 40
+0.0
+  9
+$DIMTM
+ 40
+0.0
+  9
+$DIMTXT
+ 40
+0.18
+  9
+$DIMCEN
+ 40
+0.09
+  9
+$DIMTSZ
+ 40
+0.0
+  9
+$DIMTOL
+ 70
+     0
+  9
+$DIMLIM
+ 70
+     0
+  9
+$DIMTIH
+ 70
+     1
+  9
+$DIMTOH
+ 70
+     1
+  9
+$DIMSE1
+ 70
+     0
+  9
+$DIMSE2
+ 70
+     0
+  9
+$DIMTAD
+ 70
+     0
+  9
+$DIMZIN
+ 70
+     0
+  9
+$DIMBLK
+  1
+
+  9
+$DIMASO
+ 70
+     1
+  9
+$DIMSHO
+ 70
+     1
+  9
+$DIMPOST
+  1
+
+  9
+$DIMAPOST
+  1
+
+  9
+$DIMALT
+ 70
+     0
+  9
+$DIMALTD
+ 70
+     2
+  9
+$DIMALTF
+ 40
+25.4
+  9
+$DIMLFAC
+ 40
+1.0
+  9
+$DIMTOFL
+ 70
+     0
+  9
+$DIMTVP
+ 40
+0.0
+  9
+$DIMTIX
+ 70
+     0
+  9
+$DIMSOXD
+ 70
+     0
+  9
+$DIMSAH
+ 70
+     0
+  9
+$DIMBLK1
+  1
+
+  9
+$DIMBLK2
+  1
+
+  9
 $DIMSTYLE
   2
-STANDARD
+STANDARD_ACAD
   9
-$DIMTXSTY
-  7
-STANDARD
+$DIMCLRD
+ 70
+     0
   9
-$CMLSTYLE
-  2
-STANDARD
+$DIMCLRE
+ 70
+     0
   9
-$PEXTMAX
- 10
-50
- 20
-50
- 30
-50
+$DIMCLRT
+ 70
+     0
   9
-$PEXTMIN
- 10
-0
- 20
-0
- 30
-0
+$DIMTFAC
+ 40
+1.0
+  9
+$DIMGAP
+ 40
+0.09
+  9
+$LUNITS
+ 70
+     2
+  9
+$LUPREC
+ 70
+     3
+  9
+$SKETCHINC
+ 40
+0.1
+  9
+$FILLETRAD
+ 40
+0.0
+  9
+$AUNITS
+ 70
+     0
+  9
+$AUPREC
+ 70
+     0
+  9
+$MENU
+  1
+.
+  9
+$ELEVATION
+ 40
+0.0
+  9
+$PELEVATION
+ 40
+0.0
+  9
+$THICKNESS
+ 40
+0.0
+  9
+$LIMCHECK
+ 70
+     0
+  9
+$CHAMFERA
+ 40
+0.0
+  9
+$CHAMFERB
+ 40
+0.0
+  9
+$SKPOLY
+ 70
+     0
+  9
+$TDCREATE
+ 40
+2459888.710534618
+  9
+$TDUPDATE
+ 40
+2459888.710550544
+  9
+$TDINDWG
+ 40
+0.0000000116
+  9
+$TDUSRTIMER
+ 40
+0.0000000116
+  9
+$USRTIMER
+ 70
+     1
+  9
+$ANGBASE
+ 50
+0.0
+  9
+$ANGDIR
+ 70
+     0
+  9
+$PDMODE
+ 70
+     0
+  9
+$PDSIZE
+ 40
+0.0
+  9
+$PLINEWID
+ 40
+0.0
+  9
+$COORDS
+ 70
+     1
+  9
+$SPLFRAME
+ 70
+     0
+  9
+$SPLINETYPE
+ 70
+     6
+  9
+$SPLINESEGS
+ 70
+     8
+  9
+$ATTDIA
+ 70
+     0
+  9
+$ATTREQ
+ 70
+     1
+  9
+$HANDLING
+ 70
+     1
   9
 $HANDSEED
   5
-FFFF
-  0
-ENDSEC
-  0
-SECTION
+78
+  9
+$SURFTAB1
+ 70
+     6
+  9
+$SURFTAB2
+ 70
+     6
+  9
+$SURFTYPE
+ 70
+     6
+  9
+$SURFU
+ 70
+     6
+  9
+$SURFV
+ 70
+     6
+  9
+$UCSNAME
   2
-CLASSES
-  0
-CLASS
-  1
-ACDBDICTIONARYWDFLT
+
+  9
+$UCSORG
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSXDIR
+ 10
+1.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSYDIR
+ 10
+0.0
+ 20
+1.0
+ 30
+0.0
+  9
+$PUCSNAME
   2
-AcDbDictionaryWithDefault
-  3
-ObjectDBX Classes
- 90
-        0
-280
+
+  9
+$PUCSORG
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSXDIR
+ 10
+1.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSYDIR
+ 10
+0.0
+ 20
+1.0
+ 30
+0.0
+  9
+$USERI1
+ 70
      0
-281
+  9
+$USERI2
+ 70
      0
-  0
-CLASS
-  1
-XRECORD
-  2
-AcDbXrecord
-  3
-ObjectDBX Classes
- 90
-        0
-280
+  9
+$USERI3
+ 70
      0
-281
+  9
+$USERI4
+ 70
      0
-  0
-CLASS
-  1
-LWPOLYLINE
-  2
-AcDbPolyline
-  3
-ObjectDBX Classes
- 90
-        0
-280
+  9
+$USERI5
+ 70
      0
-281
+  9
+$USERR1
+ 40
+0.0
+  9
+$USERR2
+ 40
+0.0
+  9
+$USERR3
+ 40
+0.0
+  9
+$USERR4
+ 40
+0.0
+  9
+$USERR5
+ 40
+0.0
+  9
+$WORLDVIEW
+ 70
+     1
+  9
+$SHADEDGE
+ 70
+     3
+  9
+$SHADEDIF
+ 70
+    70
+  9
+$TILEMODE
+ 70
+     1
+  9
+$MAXACTVP
+ 70
+    64
+  9
+$PLIMCHECK
+ 70
+     0
+  9
+$PEXTMIN
+ 10
+1.000000000000000E+20
+ 20
+1.000000000000000E+20
+ 30
+1.000000000000000E+20
+  9
+$PEXTMAX
+ 10
+-1.000000000000000E+20
+ 20
+-1.000000000000000E+20
+ 30
+-1.000000000000000E+20
+  9
+$PLIMMIN
+ 10
+0.0
+ 20
+0.0
+  9
+$PLIMMAX
+ 10
+12.0
+ 20
+9.0
+  9
+$UNITMODE
+ 70
+     0
+  9
+$VISRETAIN
+ 70
+     1
+  9
+$PLINEGEN
+ 70
+     0
+  9
+$PSLTSCALE
+ 70
      1
   0
 ENDSEC
@@ -110,27 +596,79 @@ TABLES
 TABLE
   2
 VPORT
-  5
-20
-330
-0
-100
-AcDbSymbolTable
  70
      1
   0
 VPORT
-  5
-21
-330
-20
-100
-AcDbSymbolTableRecord
-100
-AcDbViewportTableRecord
   2
 *ACTIVE
  70
+     0
+ 10
+0.0
+ 20
+0.0
+ 11
+1.0
+ 21
+1.0
+ 12
+10.42990654205607
+ 22
+4.5
+ 13
+0.0
+ 23
+0.0
+ 14
+0.5
+ 24
+0.5
+ 15
+0.5
+ 25
+0.5
+ 16
+0.0
+ 26
+0.0
+ 36
+1.0
+ 17
+0.0
+ 27
+0.0
+ 37
+0.0
+ 40
+9.0
+ 41
+1.972972972850329
+ 42
+50.0
+ 43
+0.0
+ 44
+0.0
+ 50
+0.0
+ 51
+0.0
+ 71
+     0
+ 72
+   100
+ 73
+     1
+ 74
+     3
+ 75
+     0
+ 76
+     0
+ 77
+     0
+ 78
      0
   0
 ENDTAB
@@ -138,68 +676,10 @@ ENDTAB
 TABLE
   2
 LTYPE
-  5
-22
-330
-0
-100
-AcDbSymbolTable
  70
      1
   0
 LTYPE
-  5
-23
-330
-21
-100
-AcDbSymbolTableRecord
-100
-AcDbLinetypeTableRecord
-  2
-BYBLOCK
- 70
-     0
-  3
-
- 72
-    65
- 73
-     0
- 40
-0.0
-  0
-LTYPE
-  5
-24
-330
-21
-100
-AcDbSymbolTableRecord
-100
-AcDbLinetypeTableRecord
-  2
-BYLAYER
- 70
-     0
-  3
-
- 72
-    65
- 73
-     0
- 40
-0.0
-  0
-LTYPE
-  5
-25
-330
-21
-100
-AcDbSymbolTableRecord
-100
-AcDbLinetypeTableRecord
   2
 CONTINUOUS
  70
@@ -218,66 +698,26 @@ ENDTAB
 TABLE
   2
 LAYER
-  5
-A11
-330
-0
-100
-AcDbSymbolTable
  70
-3
+     2
   0
 LAYER
-  5
-A12
-330
-A11
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
   2
 0
  70
-   0
+     0
  62
-   7
+     7
   6
 CONTINUOUS
   0
 LAYER
-  5
-A13
-330
-A11
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
   2
-none
+WORK_LAYER
  70
-    0
+     0
  62
-    7
-  6
-CONTINUOUS
-  0
-LAYER
-  5
-A14
-330
-A11
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-Sketch110
- 70
-    0
- 62
-    7
+   254
   6
 CONTINUOUS
   0
@@ -286,24 +726,10 @@ ENDTAB
 TABLE
   2
 STYLE
-  5
-70
-330
-0
-100
-AcDbSymbolTable
  70
-     2
+     1
   0
 STYLE
-  5
-71
-330
-70
-100
-AcDbSymbolTableRecord
-100
-AcDbTextStyleTableRecord
   2
 STANDARD
  70
@@ -317,37 +743,9 @@ STANDARD
  71
      0
  42
-2.5
+0.2
   3
-arial.ttf
-  4
-
-  0
-STYLE
-  5
-72
-330
-70
-100
-AcDbSymbolTableRecord
-100
-AcDbTextStyleTableRecord
-  2
-ANNOTATIVE
- 70
-     0
- 40
-0.0
- 41
-1.0
- 50
-0.0
- 71
-     0
- 42
-2.5
-  3
-arial.ttf
+txt
   4
 
   0
@@ -356,12 +754,6 @@ ENDTAB
 TABLE
   2
 VIEW
-  5
-73
-330
-0
-100
-AcDbSymbolTable
  70
      0
   0
@@ -370,12 +762,6 @@ ENDTAB
 TABLE
   2
 UCS
-  5
-74
-330
-0
-100
-AcDbSymbolTable
  70
      0
   0
@@ -384,40 +770,18 @@ ENDTAB
 TABLE
   2
 APPID
-  5
-75
-330
-0
-100
-AcDbSymbolTable
  70
      2
   0
 APPID
-  5
-76
-330
-75
-100
-AcDbSymbolTableRecord
-100
-AcDbRegAppTableRecord
   2
 ACAD
  70
      0
   0
 APPID
-  5
-77
-330
-75
-100
-AcDbSymbolTableRecord
-100
-AcDbRegAppTableRecord
   2
-ACADANNOTATIVE
+RHINO
  70
      0
   0
@@ -426,26 +790,12 @@ ENDTAB
 TABLE
   2
 DIMSTYLE
-  5
-78
-330
-0
-100
-AcDbSymbolTable
  70
-     2
+     1
   0
 DIMSTYLE
-105
-79
-330
-78
-100
-AcDbSymbolTableRecord
-100
-AcDbDimStyleTableRecord
   2
-STANDARD
+STANDARD_ACAD
  70
      0
   3
@@ -459,15 +809,15 @@ STANDARD
   7
 
  40
-0.0
+1.0
  41
-2.5
+0.18
  42
-0.625
+0.0625
  43
-3.75
+0.38
  44
-1.25
+0.18
  45
 0.0
  46
@@ -477,13 +827,13 @@ STANDARD
  48
 0.0
 140
-2.5
+0.18
 141
-2.5
+0.09
 142
 0.0
 143
-0.03937007874016
+25.4
 144
 1.0
 145
@@ -491,29 +841,29 @@ STANDARD
 146
 1.0
 147
-0.625
+0.09
  71
      0
  72
      0
  73
-     0
+     1
  74
-     0
+     1
  75
      0
  76
      0
  77
-     1
+     0
  78
-     8
+     0
 170
      0
 171
-     3
+     2
 172
-     1
+     0
 173
      0
 174
@@ -526,76 +876,6 @@ STANDARD
      0
 178
      0
-270
-     2
-271
-     2
-272
-     2
-273
-     2
-274
-     3
-340
-71
-275
-     0
-280
-     0
-281
-     0
-282
-     0
-283
-     0
-284
-     8
-285
-     0
-286
-     0
-287
-     3
-288
-     0
-  0
-ENDTAB
-  0
-TABLE
-  2
-BLOCK_RECORD
-  5
-A01
-330
-0
-100
-AcDbSymbolTable
-  70
-5
-  0
-BLOCK_RECORD
-  5
-A02
-330
-A01
-100
-AcDbSymbolTableRecord
-100
-AcDbBlockTableRecord
-  2
-*MODEL_SPACE
-  0
-BLOCK_RECORD
-  5
-A03
-330
-A01
-100
-AcDbSymbolTableRecord
-100
-AcDbBlockTableRecord
-  2
-*PAPER_SPACE
   0
 ENDTAB
   0
@@ -606,84 +886,56 @@ SECTION
 BLOCKS
   0
 BLOCK
-  5
-A04
-330
-A02
-100
-AcDbEntity
   8
 0
-100
-AcDbBlockBegin
   2
-*MODEL_SPACE
+$MODEL_SPACE
  70
-   0
+     0
  10
-0
+0.0
  20
-0
+0.0
  30
-0
+0.0
   3
-*MODEL_SPACE
+$MODEL_SPACE
   1
- 
+
   0
 ENDBLK
   5
-A05
-330
-A02
-100
-AcDbEntity
+21
   8
 0
-100
-AcDbBlockEnd
   0
 BLOCK
-  5
-A06
-330
-A03
-100
-AcDbEntity
  67
-1
+     1
   8
 0
-100
-AcDbBlockBegin
   2
-*PAPER_SPACE
+$PAPER_SPACE
  70
-   0
+     0
  10
-0
+0.0
  20
-0
+0.0
  30
-0
+0.0
   3
-*PAPER_SPACE
+$PAPER_SPACE
   1
- 
+
   0
 ENDBLK
   5
-A07
-330
-A03
-100
-AcDbEntity
+1D
  67
-    1
+     1
   8
 0
-100
-AcDbBlockEnd
   0
 ENDSEC
   0
@@ -691,229 +943,225 @@ SECTION
   2
 ENTITIES
   0
+POLYLINE
+  5
+60
+  8
+WORK_LAYER
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+     1
+  0
+VERTEX
+  5
+61
+  8
+WORK_LAYER
+ 10
+26.0
+ 20
+40.99999999993
+ 30
+0.0
+  0
+VERTEX
+  5
+62
+  8
+WORK_LAYER
+ 10
+26.0
+ 20
+3.000000000000028
+ 30
+0.0
+ 42
+-0.414213562373095
+  0
+VERTEX
+  5
+63
+  8
+WORK_LAYER
+ 10
+24.0
+ 20
+0.9999999999999964
+ 30
+0.0
+  0
+VERTEX
+  5
+64
+  8
+WORK_LAYER
+ 10
+3.0
+ 20
+1.000000000000028
+ 30
+0.0
+ 42
+-0.4142135623730989
+  0
+VERTEX
+  5
+65
+  8
+WORK_LAYER
+ 10
+1.0
+ 20
+3.0
+ 30
+0.0
+  0
+VERTEX
+  5
+66
+  8
+WORK_LAYER
+ 10
+1.0
+ 20
+48.99999999993
+ 30
+0.0
+ 42
+-0.4142135623730936
+  0
+VERTEX
+  5
+67
+  8
+WORK_LAYER
+ 10
+3.0
+ 20
+50.99999999993
+ 30
+0.0
+  0
+VERTEX
+  5
+68
+  8
+WORK_LAYER
+ 10
+11.39999999999998
+ 20
+50.99999999993
+ 30
+0.0
+ 42
+-0.4142135623730915
+  0
+VERTEX
+  5
+69
+  8
+WORK_LAYER
+ 10
+13.39999999999997
+ 20
+48.99999999993
+ 30
+0.0
+  0
+VERTEX
+  5
+6A
+  8
+WORK_LAYER
+ 10
+13.39999999999998
+ 20
+44.99999999993
+ 30
+0.0
+ 42
+0.414213562373097
+  0
+VERTEX
+  5
+6B
+  8
+WORK_LAYER
+ 10
+15.39999999999998
+ 20
+42.99999999993
+ 30
+0.0
+  0
+VERTEX
+  5
+6C
+  8
+WORK_LAYER
+ 10
+24.0
+ 20
+42.99999999993
+ 30
+0.0
+ 42
+-0.414213562373094
+  0
+SEQEND
+  5
+6D
+  8
+WORK_LAYER
+  0
 CIRCLE
   5
-A08
-330
-A02
-100
-AcDbEntity
+6E
   8
-Sketch110
-100
-AcDbCircle
+WORK_LAYER
  10
--3
+10.39999999999998
  20
--96.55
+30.0
+ 30
+0.0
  40
 1.75
   0
 CIRCLE
   5
-A09
-330
-A02
-100
-AcDbEntity
+6F
   8
-Sketch110
-100
-AcDbCircle
+WORK_LAYER
  10
--3
+10.39999999999998
  20
--106.55
+39.99999999993
+ 30
+0.0
  40
 1.75
-  0
-LINE
-  5
-A0A
-330
-A02
-100
-AcDbEntity
-  8
-Sketch110
-100
-AcDbLine
- 10
-12.6
- 20
--93.55
- 30
--12.5
- 11
-12.6
- 21
--135.55
- 31
--12.5
-  0
-LINE
-  5
-A0B
-330
-A02
-100
-AcDbEntity
-  8
-Sketch110
-100
-AcDbLine
- 10
-12.6
- 20
--135.55
- 30
--12.5
- 11
--12.4
- 21
--135.55
- 31
--12.5
-  0
-LINE
-  5
-A0C
-330
-A02
-100
-AcDbEntity
-  8
-Sketch110
-100
-AcDbLine
- 10
--12.4
- 20
--135.55
- 30
--12.5
- 11
--12.4
- 21
--85.55
- 31
--12.5
-  0
-LINE
-  5
-A0D
-330
-A02
-100
-AcDbEntity
-  8
-Sketch110
-100
-AcDbLine
- 10
--12.4
- 20
--85.55
- 30
--12.5
- 11
-3.48166e-14
- 21
--85.55
- 31
--12.5
-  0
-LINE
-  5
-A0E
-330
-A02
-100
-AcDbEntity
-  8
-Sketch110
-100
-AcDbLine
- 10
-3.48166e-14
- 20
--85.55
- 30
--12.5
- 11
-3.6593e-14
- 21
--93.55
- 31
--12.5
-  0
-LINE
-  5
-A0F
-330
-A02
-100
-AcDbEntity
-  8
-Sketch110
-100
-AcDbLine
- 10
-3.6593e-14
- 20
--93.55
- 30
--12.5
- 11
-12.6
- 21
--93.55
- 31
--12.5
   0
 CIRCLE
   5
-A10
-330
-A02
-100
-AcDbEntity
+70
   8
-Sketch110
-100
-AcDbCircle
+WORK_LAYER
  10
--6.2
+7.200000000000045
  20
--89.55
+46.99999999993
+ 30
+0.0
  40
 1.75
-  0
-ENDSEC
-  0
-SECTION
-  2
-OBJECTS
-  0
-DICTIONARY
-  5
-F000
-330
-0
-100
-AcDbDictionary
-  3
-ACAD_GROUP
-350
-F001
-  0
-DICTIONARY
-  5
-F001
-330
-F000
-100
-AcDbDictionary
   0
 ENDSEC
   0
