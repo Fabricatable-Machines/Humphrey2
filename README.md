@@ -3,6 +3,35 @@ A self replicating large format open hardware CNC router
 
 *by Jens Dyvik, March 2022 - ongoing*
 
+### Index
+
+ - [Dev log]()
+ - [Bill of materials]()
+ - [CAD file of assembly]()
+ - [Files for CNC milling]()
+ - [Files for 3D printing]()
+ - [License]()
+
+
+### Dev log November 29th 2022 - Good test cuts and promising self-replication
+
+![](img/humphrey2-with-test-objects.JPG)
+*15mm poplar plywood cut in one pass at 4200mm/m, 50mm styrofoam 3D milled and 8mm aluminium test pattern*
+
+![](img/humphrey2-alu-test.JPG)
+*Accuracy seems to be about +- 0.1mm. 6082 Aluminium cut with a 6mm single flute bit. 0.7mm pass depth, 1440mm/m feedrate + finish pass*
+
+![](img/humphrey2-cutsheet.png)
+*All phenolic parts for a Humphrey2 fit on one 2440mm x 1220mm x12mm sheet. The same size as the work area.*
+
+![](img/humphrey2-self-replication-test.JPG)
+*Test milling of parts went well*
+
+![](img/humphrey2-self-replication-test2.JPG)
+*Cutsheet with all the leftover material removed. Note all the screws holding down each part allowing for a finish pass*
+
+
+
 ### Dev log October 31st 2022 - Smooth sailing for first test milling of parts and assembly
 
 ![](img/first-prod-and-assembly-01.JPG)
