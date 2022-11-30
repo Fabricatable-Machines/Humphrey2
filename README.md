@@ -234,6 +234,8 @@ A second test with a more classic adjustable motorplate instead of flexures.
 ### BOM
 *Work in progress*
 
+The [spreadsheet file](https://github.com/Fabricatable-Machines/Humphrey2/blob/main/BOM-Humphrey2.xls) has links to European and US vendors.
+
 ![](img/BOM-humphrey2.JPG)
 
 ### License
