@@ -7,7 +7,8 @@ A self replicating large format open hardware CNC router
 
  - [Dev log](https://github.com/Fabricatable-Machines/Humphrey2#dev-log-november-29th-2022---good-test-cuts-and-promising-self-replication)
  - [Bill of materials](https://github.com/Fabricatable-Machines/Humphrey2#bom)
- - [CAD file of assembly](https://github.com/Fabricatable-Machines/Humphrey2/blob/main/humphrey2.FCStd)
+ - [FreeCAD source file](https://github.com/Fabricatable-Machines/Humphrey2/blob/main/humphrey2.FCStd)
+ - [STEP export of assembly](https://github.com/Fabricatable-Machines/Humphrey2/blob/main/humphrey2-step-export.step)
  - [Files for CNC milling](https://github.com/Fabricatable-Machines/Humphrey2/tree/main/files-for-CNC-machining)
  - [Files for 3D printing](https://github.com/Fabricatable-Machines/Humphrey2/tree/main/files-for-3D-print)
  - [License](https://github.com/Fabricatable-Machines/Humphrey2#license)
