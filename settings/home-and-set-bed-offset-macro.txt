@@ -1,0 +1,2 @@
+$H		;run GRBL homing cycle
+G92 X-41.33 Y-2  ;set the difference between homing location and where we want X and X home position to be

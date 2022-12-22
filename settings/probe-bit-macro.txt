@@ -1,0 +1,9 @@
+G0 X-41				;jog X axis to above zero plate
+G38.2 F200 Z-300	;start probing downwards
+G10 L20 P1 Z0		;make probe surface Z zero
+G0 Z1				;move up 1 mm
+G38.2 F50 Z-100		;probe again with extra slow speed for maximum precision
+G10 L20 P1 Z0		;make probe surface Z zero again
+G0 Z5.1	        	;move to the height of the bed
+G10 L20 P1 Z0		;make bed height Z zero
+G0 Z25				;jog Z to a safe height
