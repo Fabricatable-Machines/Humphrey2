@@ -14,6 +14,18 @@ A self replicating large format open hardware CNC router
  - [License](https://github.com/Fabricatable-Machines/Humphrey2#license)
 
 
+### Dev log March 27th 2023 - Self-replication test and family tree
+
+![](img/humphrey2-number-two.jpg)
+*An assembled and operational Humphrey2 made on a Humphrey2*
+
+![](img/pcb-traces-mill-test-from-neil.JPG)
+*Precicion test. Feature size in inches. Very low backlash and high repeatability. Unfortunately the only available 0.4mm end mill was broken, so the top traces are rough*
+
+![](img/fabricatable-machines-second-gen-family-tree.png)
+*The machine family tree so far. Three generations of machines making machines.*
+
+
 ### Dev log November 29th 2022 - Good test cuts and promising self-replication
 
 ![](img/humphrey2-with-test-objects.JPG)
